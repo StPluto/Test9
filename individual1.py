@@ -1,0 +1,1 @@
+print("Dobro pozhalovat` d mir gryoz")
